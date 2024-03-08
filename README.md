@@ -35,5 +35,6 @@ Added a dynamic filter to delve into the details of individual movie or TV show,
  Meticulously formatted the dashboard layout for a sleek, professional and easily understandable and interpretable appearance.
 
 # Dashboard 
-![Netflix](https://github.com/Rupali4sr/Tableau_Dashboard_Projects/assets/143262390/92684d17-ebd8-448e-bc75-5f8ff030b226)
+![Netflix](https://github.com/Rupali4sr/Tableau_Dashboard_Projects/assets/143262390/14490875-06a6-4368-a3fc-f22a1bc4787f)
+
 
