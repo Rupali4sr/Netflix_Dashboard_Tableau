@@ -16,10 +16,10 @@ This project explores the netflix dataset using Tableau, a powerful data vizuali
 The dataset used for this project is Netflix Movies and TV shows dataset available on Kaggle. It contains information about various movies and TV shows available on Neytflix including attributes like title, director, cast, country, release year, rating and more.
    
 # Task performed
-*Data gathering
-*Data cleaning
-*Data transformation
-*Dashboard creation
+* Data gathering
+* Data cleaning
+* Data transformation
+* Dashboard creation
 
 # What I've achieved
 
